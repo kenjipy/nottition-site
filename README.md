@@ -5,8 +5,7 @@
 Make sure you have the latest version of Python installed.
 
 ### instal the file requirements.txt
-``` 
-```
+
 ```bash
 pip install -r requirements.txt
 ```
